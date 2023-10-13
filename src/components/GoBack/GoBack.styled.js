@@ -10,4 +10,5 @@ export const BackLink = styled(Link)`
   gap: 10px;
   width: 120px;
   margin-bottom: 16px;
+  background-color: lightgray;
 `;

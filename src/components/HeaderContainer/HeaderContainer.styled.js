@@ -9,7 +9,7 @@ export const StyledLink = styled(NavLink)`
   color: black;
 
   &.active {
-    color: orange;
+    color: red;
   }
 `;
 
@@ -21,4 +21,5 @@ export const Navigation = styled.nav`
 export const Header = styled.header`
   box-shadow: 0px 5px 5px lightgray;
   padding: 16px 32px;
+  
 `;
